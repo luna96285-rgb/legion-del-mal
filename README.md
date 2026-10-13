@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/luna96285-rgb/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/luna96285-rgb/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/luna96285-rgb/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/luna96285-rgb/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/luna96285-rgb/legion-del-mal?(&cacheSeconds=60))
 
 
 
